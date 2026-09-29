@@ -6,3 +6,8 @@ This repository is the public download channel for Taskdeck, a local-first execu
 - The update manifest is at `channels/beta/latest.json`.
 
 This repository contains no source code and accepts no contributions.
+
+## Support and security
+
+- Questions and ordinary bugs: open an issue in [Issues](../../issues).
+- Suspected vulnerabilities: report them privately via [Report a vulnerability](../../security/advisories/new). Please don't post them in a public issue.
