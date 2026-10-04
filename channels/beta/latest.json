@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "channel": "beta",
+  "version": "0.3.0",
+  "publishedAt": "2026-10-04T20:38:21Z",
+  "license": {
+    "id": "Taskdeck-Proprietary-Beta",
+    "termsVersion": "beta-1",
+    "termsUrl": "https://github.com/Chris0Jeky/Taskdeck-Releases/releases/download/v0.3.0/EULA-beta-1.md"
+  },
+  "artifacts": [
+    {
+      "platform": "win-x64",
+      "url": "https://github.com/Chris0Jeky/Taskdeck-Releases/releases/download/v0.3.0/taskdeck-v0.3.0-win-x64.zip",
+      "sha256": "0218e59300345cce37b8f63a2ca09f3ce2c1e5350518b14469a01fbe16089eac",
+      "size": 53658391,
+      "signatureStatus": "unsigned"
+    }
+  ],
+  "mandatory": false
+}
